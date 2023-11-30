@@ -133,6 +133,7 @@ aside h2 {
     border: 2px solid rgb(0, 87, 128);
     position: relative;
     text-align: center;
+    /* justify-content: center; */
     margin: 1%;
 }
 
@@ -142,6 +143,7 @@ aside h2 {
 
 .sample img {
     width: 100%;
+    /* margin: auto; */
 }
 
 .sample p {
@@ -155,6 +157,9 @@ aside h2 {
     box-shadow: inset 0 0 5px #5c5b5b;
 }
 
+.sample:nth-child(1){
+    width: 60%;
+}
 footer {
     display: flex;
     flex-wrap: wrap;
