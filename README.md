@@ -15,5 +15,5 @@ Go to the code page and download ZIP.
 Unpack ZIP file and open index.html in your browser.
 
 ## Useful links
-[Deploy here](AndriiMedvediev987.github.io/andrii-portfolio)
+[Deploy here](https://andriimedvediev987.github.io/andrii-portfolio/)
 [Repository here](https://github.com/AndriiMedvediev987/andrii-portfolio.git)
