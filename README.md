@@ -9,6 +9,10 @@ All links works and scrolls as expected.
 
 My first application also contains clickable link.
 
+## Screenshot
+
+![sshot-portfolio](https://github.com/AndriiMedvediev987/andrii-portfolio/assets/144401796/12922488-3675-46c2-b556-7fc932ecf5cd)
+
 ## Usage
 
 Go to the code page and download ZIP.
